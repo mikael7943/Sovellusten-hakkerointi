@@ -1,4 +1,16 @@
-** h0 
+# h0 compile and analyze
 
 
-Aloitin tehtävän 
+* Aloitin tehtävän avaamalla virtuaalikoneen, jolle oli asennettu linux debian.
+* Tämän jälkeen loin uuden hakemiston mkdir komennolla ja sinne uuden tekstitiedoston nimeltä hello.c
+
+* Tiedoston sisältö:
+![image]()
+
+* seuraavaksi kokosin tiedoston ohjelmalla GCC compiler.
+  Tämän sain tehtyä komennolla gcc hello.c -o hello
+
+* testasin toimivuuden ./hello komennolla ja hello world toimi.
+![image]()
+
+  
