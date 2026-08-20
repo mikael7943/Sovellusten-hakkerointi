@@ -13,4 +13,28 @@
 * testasin toimivuuden ./hello komennolla ja hello world toimi.
 ![image]()
 
+* Tämän jälkeen ajoin komennon file hello ja sain tietoja kootutsta tiedostosta.
+![image]()
+
+Miten tätä nyt sitten analysoidaan?
+
+* ELF = Executable and Linkable format
+  - Linuxin käyttämä perus binäärimuoto
+
+* 64-bit 
+  - Suoritettava tiedosto on suunniteltu 64-bittiselle arkkitehtuurille.
+
+* LSB = Least Significant Byte First
+  - 
+
+* x86-64 
+  - ohjelma sisältää konekäskyjä x86-64-arkkitehtuurille.
+
+*for GNU/Linux 3.2.0
+  - Kertoo mikä versio linuxin kernelistä pitää vähintään olla.
+
+* Dynamically linked
+  - Kertoo, että tiedosto ei sisällä kaikkea, jotta sen voi ajaa. Se käyttää jaettuja kirjastoja, jotta tiedoston voi ajaa.
+
+
   
