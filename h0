@@ -11,7 +11,7 @@
   Tämän sain tehtyä komennolla gcc hello.c -o hello
 
 * testasin toimivuuden ./hello komennolla ja hello world toimi.
-![image]()
+![image](https://github.com/mikael7943/Sovellusten-hakkerointi/blob/c42d08b7ccef51a56c77746ad68712fbcf01f88a/kuvia/N%C3%A4ytt%C3%B6kuva%202026-08-20%20155828.png)
 
 * Tämän jälkeen ajoin komennon file hello ja sain tietoja kootutsta tiedostosta.
 ![image]()
