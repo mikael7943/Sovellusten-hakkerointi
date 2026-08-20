@@ -5,7 +5,7 @@
 * Tämän jälkeen loin uuden hakemiston mkdir komennolla ja sinne uuden tekstitiedoston nimeltä hello.c
 
 * Tiedoston sisältö:
-![image](kuvia/Näyttökuva 2026-08-20 155008.png)
+![image]
 
 * seuraavaksi kokosin tiedoston ohjelmalla GCC compiler.
   Tämän sain tehtyä komennolla gcc hello.c -o hello
